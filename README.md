@@ -1,7 +1,5 @@
 # Full-Stack E-Book Finder
 
-![App Screenshot](https://i.imgur.com/gK9xJYW.png)
-
 A full-stack web application that searches multiple sources (Project Gutenberg and the Open Library API) to find and display legally free e-books. The project features a modern, responsive frontend and a powerful Python API backend.
 
 ---
