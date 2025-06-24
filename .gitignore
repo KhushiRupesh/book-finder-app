@@ -1,0 +1,14 @@
+# File: .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+/backend/venv/
+
+# Output folders
+/data/
+/logs/

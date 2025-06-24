@@ -1,0 +1,5 @@
+# File: backend/requirements.txt
+fastapi
+uvicorn[standard]
+beautifulsoup4
+httpx # The replacement for requests
